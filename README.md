@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 ## Dynamic Programming
 |  |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
