@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 ## Matrix
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
