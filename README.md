@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0137-single-number-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
