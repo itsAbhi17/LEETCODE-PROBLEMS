@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
