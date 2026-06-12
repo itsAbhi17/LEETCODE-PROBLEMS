@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
