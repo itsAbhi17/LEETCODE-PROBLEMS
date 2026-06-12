@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
