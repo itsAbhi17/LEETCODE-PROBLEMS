@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0097-interleaving-string) |
 ## Backtracking
