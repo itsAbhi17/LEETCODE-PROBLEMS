@@ -164,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/2427-number-of-common-factors) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
