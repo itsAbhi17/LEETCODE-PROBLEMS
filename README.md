@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
