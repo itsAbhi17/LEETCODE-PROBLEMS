@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0196-delete-duplicate-emails) |
+| [0627-swap-sex-of-employees](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0627-swap-sex-of-employees) |
 | [1280-students-and-examinations](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1280-students-and-examinations) |
 ## Counting
 |  |
