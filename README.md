@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0097-interleaving-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Bit Manipulation
 |  |
