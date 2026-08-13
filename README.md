@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Union-Find
