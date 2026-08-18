@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
 |  |
