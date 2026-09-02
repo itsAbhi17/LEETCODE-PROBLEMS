@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -159,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
