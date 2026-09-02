@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
+| [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0137-single-number-ii) |
+| [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Union-Find
 |  |
 | ------- |
