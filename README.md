@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0097-interleaving-string) |
+| [0205-isomorphic-strings](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Backtracking
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Union-Find
