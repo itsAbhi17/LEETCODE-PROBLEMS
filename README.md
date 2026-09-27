@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0216-combination-sum-iii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
