@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
