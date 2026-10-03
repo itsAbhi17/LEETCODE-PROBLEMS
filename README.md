@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2413-smallest-even-multiple](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/2427-number-of-common-factors) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1763-longest-nice-substring](https://github.com/itsAbhi17/LEETCODE-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Union-Find
